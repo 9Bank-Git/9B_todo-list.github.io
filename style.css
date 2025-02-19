@@ -312,6 +312,21 @@ main {
 	transition: 0.2s ease-in-out;
 }
 
+.footer {
+	position: fixed;
+	display: flex;
+	font-size: 30px;
+	gap: 0.5rem;
+	bottom: 0;
+}
+
+.footer p {
+	font-size: 1rem;
+	font-weight: bolder;
+	text-shadow: 1px 2px 3px #313154;
+	color: var(--light-grey);
+}
+
 .list {
 	-ms-overflow-style: thin;
 	height: 350px;
