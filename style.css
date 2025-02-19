@@ -278,7 +278,6 @@ main {
 }
 
 .counter {
-	margin-top: 1rem;
 	border: 0.07rem solid var(--light);
 }
 
