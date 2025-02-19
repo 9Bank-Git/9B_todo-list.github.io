@@ -45,7 +45,7 @@ body {
 	flex-direction: column;
 	align-items: center;
 	justify-content: center;
-	margin-top: 1.5rem;
+	margin-top: 3rem;
 	border-radius: 1rem;
 	background-color: #FFF;
 	box-shadow: 0 1rem 3rem 1rem rgba(0, 32, 9, 0.15);
@@ -305,7 +305,6 @@ main {
 	font-size: 0.9rem;
 	border: 0.06rem solid #d2d2d2bf;
 	color: var(--grey);
-	
 	border-radius: 0.3rem;
 }
 
@@ -316,7 +315,7 @@ main {
 
 .list {
 	-ms-overflow-style: thin;
-	height: 340px;
+	height: 350px;
 }
 
 .list::-webkit-scrollbar {
